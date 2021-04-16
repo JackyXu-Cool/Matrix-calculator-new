@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+.intro {
+    padding-top: 20%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

@@ -1,10 +1,45 @@
 body {
-    background-color: black;
+    background-color: #141726;
 }
 
 .intro {
-    padding-top: 20%;
+    padding-top: 10%;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+}
+
+.buttons {
+    text-align: center;
+}
+
+button {
+    width: 80px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Courier New';
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+    background-color: #141726;
+    text-decoration: none;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+button:hover {
+    width: 80px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New';
+    color: #141726;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #141726;
 }

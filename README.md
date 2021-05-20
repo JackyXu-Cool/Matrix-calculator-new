@@ -1,7 +1,7 @@
 # Matrix-Calculator-
-This is a new version of the matrix calculator application. Previous version was developed in Java and JavaFX ([line here](https://github.com/JackyXu-Cool/Matrix-Calculator)). Now, I rebuild the app with Electron, which is intended to provide a better user experience.
+This is a new version of the matrix calculator application. Previous version was developed in Java and JavaFX ([click here](https://github.com/JackyXu-Cool/Matrix-Calculator)). Now, I rebuild the app with Electron, making this app work in multiple platform.
 
-<img src="http://www.xujunqi.net/assets/Calculator.png" width="250" height="250"/>
+<img src="./assets/preview.png" width="auto" height="250"/>
 
 ## Problems it could solve now
 - [x] Matrix addition and subtraction

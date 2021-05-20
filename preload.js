@@ -8,5 +8,4 @@ window.addEventListener('DOMContentLoaded', () => {
 		shadow: true,
 		menu: null
 	});
-	customTitlebar.updateTitle('1');
 });
